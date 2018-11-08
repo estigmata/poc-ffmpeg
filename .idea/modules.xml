@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poc-ffmpeg.iml" filepath="$PROJECT_DIR$/poc-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc-ffmpeg_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poc-ffmpeg_main.iml" group="poc-ffmpeg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc-ffmpeg_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poc-ffmpeg_test.iml" group="poc-ffmpeg" />
+    </modules>
+  </component>
+</project>
